@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: yw_juxianzhuang_shui01
+  m_Shader: {fileID: 4800000, guid: dee62b78fdc647f4fa620cfe019b3c03, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 2db78c4ca0e8f6940b2c362b339df95f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 2800000, guid: 259b7f3b12032244fb31ac9de4c74466, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FogShininess: 7.142857
+    - _FogStrength: 0.35714284
+    - _InvFadeParemeter: 2.5
+    - _MainAlpha: 0.78571427
+    - _ReflectionAlpha: 0.39285704
+    - _ReflectionBias: 1.42
+    - _Shininess: 1.9999998
+    m_Colors:
+    - _Color: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 1}
+    - _DirectionUv: {r: 0, g: 5, b: 0, a: 2}
+    - _FogColor: {r: 0.11, g: 0.18965517, b: 0.32, a: 1}
+    - _MainColor: {r: 0.06585208, g: 0.21323532, b: 0.1888408, a: 1}
+    - _SunPos: {r: 5, g: 20, b: 1, a: 0.81}
+    - _TexAtlasTiling: {r: 30, g: 40, b: 5, a: 5}
